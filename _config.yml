@@ -10,16 +10,6 @@ author:
   desc: Hello! Welcome!
   selfie: assets/img/Image_20240819153203.jpg
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about/
-  - title: CV
-    url: /CV.md
-  - title: Research
-    url: /Research/
-
 
 # social
 social:
