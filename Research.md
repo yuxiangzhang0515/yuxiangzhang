@@ -1,10 +1,16 @@
 ---
-layout: Research 
+layout: page
+title: "Research"
+permalink: /Research/
 ---
 
-# Working Papers
-Hello! I'm Yuxiang Zhang, a Ph.D. Candidate in the Department of Agricultural Economics, Sociology and Education at the Pennsylvania State University. I am currently on the 2024-2025 job market and available for job interviews. 
+# Research
+Here you can describe your research interests and projects.
 
-<br/>
+## Current Projects
+- Project 1
+- Project 2
 
-
+## Publications
+- Publication 1
+- Publication 2
