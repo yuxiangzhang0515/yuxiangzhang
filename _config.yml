@@ -13,12 +13,12 @@ author:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Curriculum
+  - title: About
+    url: /about/
+  - title: CV
     url: /cv/
   - title: Research
     url: /Research/
-  - title: Code
-    url: /code/
 
 
 # social
