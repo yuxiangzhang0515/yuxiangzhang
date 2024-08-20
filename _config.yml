@@ -1,0 +1,72 @@
+# Site settings
+title: Yuxiang Zhang
+baseurl: "/yuxiangzhang"
+url: "https://yuxiangzhang.github.io"
+google_analytics: # Tracking ID, e.g. "UA-000000-01"
+
+# Author
+author:
+  name: Yuxiang Zhang
+  desc: Hello! Welcome!
+  selfie: assets/img/Image_20240819153203.jpg
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: Curriculum
+    url: /cv/
+  - title: Research
+    url: /Research/
+  - title: Code
+    url: /code/
+
+
+# social
+social:
+  email: true
+  behance:
+  bitbucket:
+  dribbble:
+  facebook: Test
+  flickr:
+  github: yuxiangzhang0515
+  google_plus:
+  instagram:
+  keybase:
+  linkedin: "https://www.linkedin.com/in/yuxiang-zhang-0b7553117"
+  pinterest:
+  reddit:
+  soundcloud:
+  stack_exchange:
+  steam:
+  tumblr:
+  gitlab:
+  twitter: 
+  vimeo:
+  wordpress:
+  youtube:
+  default_txt: "Follow On"
+
+# Build settings
+markdown: kramdown
+
+# Assets
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink: /:year-:month-:day/:title
+paginate_path: "/portfolio/page:num/"
+paginate: 5
+exclude:
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "*.gem"
+  - "LICENSE"
+  - "READE.md"
+  - "screenshot.png"
