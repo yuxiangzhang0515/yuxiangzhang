@@ -9,12 +9,22 @@
     <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/portfolio/">Portfolio</a></li>
-        <li><a href="https://example.com/my-cv.pdf">CV</a></li>
+        <li><a href="/CV.md">CV</a></li>
         <li><a href="/about.html">About</a></li>
     </ul>
 </nav>
 
-    
+    <nav class="nav">
+      <div class="nav-container">
+        <a href="{{ site.baseurl }}/">
+          <h2 class="nav-title">{{ site.title }}</h2>
+        </a>
+        <ul>
+          <li><a href="{{ '/' | prepend: site.baseurl }}">About</a></li>
+          <li><a href="{{ '/portfolio' | prepend: site.baseurl }}/">Portfolio</a></li>
+        </ul>
+    </div>
+  </nav>
 
     <main>
       {{ content }}
