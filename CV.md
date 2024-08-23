@@ -4,23 +4,8 @@ title: "CV"
 permalink: /CV/
 ---
 
-
-    <nav class="nav">
-      <div class="nav-container">
-        <a href="{{ site.baseurl }}/">
-          <h2 class="nav-title">{{ site.title }}</h2>
-        </a>
-        <ul>
-          <li><a href="{{ '/' | prepend: site.baseurl }}">About</a></li>
-          <li><a href="{{ '/Research' | prepend: site.baseurl }}/">Research</a></li>
-          <li><a href="{{ '/CV' | prepend: site.baseurl }}/">CV</a></li>
-        </ul>
-    </div>
-  </nav>
-
-
-
-
+<br/>
+<br/>
 Thank you for your interest! 
 <br/>
 <br/>
