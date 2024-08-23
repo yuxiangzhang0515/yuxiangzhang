@@ -4,7 +4,7 @@ title: "CV"
 permalink: /CV/
 ---
 
-  <body>
+
     <nav class="nav">
       <div class="nav-container">
         <a href="{{ site.baseurl }}/">
